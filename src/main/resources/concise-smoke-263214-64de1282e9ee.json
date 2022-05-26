@@ -1,3 +1,12 @@
 {
-  ///
+ "type": "service_account",
+  "project_id": "gcp-practice-secondary-prj",
+  "private_key_id": "4fa8ebf84b229165953eaa2a5660c2ac0a8c3632",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDUqDzK/IDfAQhb\nobkGTZNOuX5IRsBEAoezTijiLsqZzz0OVfZf8RLjzDo1ZtSNPXMR+B6H3w32Dzxs\nYjC5FJV/Vzf+wbSMYvlMCsDHzQIddpKrnUJboxg+CyuSBJV74uMT09plgAY6nx5u\nl842M2rNzKDBaeZsLG2WU2Z+HRVgTyNMwA3Vc+eF6ewvzZIsRM3W5RQaqsp0/Bhh\n9cNAdd3leJ2BEslb3bwA1zO5RkB5ATkPSAxgxwi7PFjzS0PjuHjrGQezf0kyeXUz\n/Mtg/7rD6yrRgrSZcjarvZXmI4nd1U+t7lzOTqd7pJzv2YNmgckVUNUsIXGow2dw\nkONoMRlzAgMBAAECggEAAY0QlHJvBjFdvD1buh4KuwJDV4eck2JpVvd0+OFafPC0\nA0zBNUXu21Z7/jO3zSfrlO/4WQlZcrf9utSkglUSGhGqyOLkzDlUlCdn7I0kPM7G\nlxXYjA6OeLVgJfp+lJ69BUIAT8k1Qmwyrp/Q0zhgyQt7CK4bDiLs0bHeB4FyzHcD\n42qbqLR7Tx69pGkmWsrN/wwsrI0m1XZYJw7dNfS/9GL9JLELjYjbDu4F4pJ4Xh9R\n/pUy2HpsFo+KyH83GBHapuWLqdTShSDUgf/3YaMJUG6br9INQXIgHsVQfed4Db92\nPrbhYs22HZXdbG2SnCvO20PnWwP3gb23tS1ULrmhYQKBgQD6Vr1elCJVwbrASDhZ\nA+8+EI4q4LrMtygmGuUdfr8zFmAF1Z5+wgEPJIbHpCXZzT1mighKiwpj5J8D75oe\n+Ura4DihjHV2spLsY80gDBUYSATcymNl8kEexdvy5vKk4iisaSFr2IX2mMG2Z18I\nSnY1LFLCiy5Xqr4GqdlPJrPCyQKBgQDZd1nw9kOjHiHo4Ltfv9BRuncxrKRFLapg\n7Iuu9SYcz6lyWfKNxY88gcKYwFErcQUZRFegzY9aZ2pE7TL4T61/phWn0zrn8twE\nnqkJzbr+4sUJPvYHKA8MtOmHkOK5fHgn/pML6Fe65y5pDdYKxzO695TFA9tBx88L\nrYamb6X8WwKBgQChkvh4oc2jYf2h+zr7IRH6Ef9gZ1nJpXFxXqyAI/1OAOQK//xj\nPd4nIuEm26hechxuISsGycT0AmwrwyrLUQViTZPfmON7r/gqQKP1SjcXS+xvgOU0\nuG4VaYjztuHnT90GongivkaAicmFbCSnGkA/Q5NK40AO7zHk5R1P+9/MGQKBgQDO\nRhuWKMG3c9mOX7zb8cHUBB8Ti0K2K760+Sr15aslIQUFZrRgLcjUB/FhmupjXm0L\nrnvAF7umcPmoL6ZtSoaz0gIwkngJk5+G8kg8+FwrcUacopAT8bd0whXRdWjZsGr4\n5MzuOpEcxDSNiYZB6vnymu0Og73yA2ktFofmT3kOiQKBgQDS4v9UaDadMUVjKYJy\nJ0gKWqeh1bI1EP1MSaZIo1guz916I8WYVcRmpuucrI3PjTuDfBcZ7wb0oGFaSLEM\nTpo2Gw0zJxegZcpd+4u+BTZVkiIciObyaGlsgTclBqdcgxLRZv6rd6GlQXBo1C2x\nOGohEpt28x0GqKB6JWFnawiGrA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-account@gcp-practice-secondary-prj.iam.gserviceaccount.com",
+  "client_id": "100681670219852533400",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-account%40gcp-practice-secondary-prj.iam.gserviceaccount.com"
 }
