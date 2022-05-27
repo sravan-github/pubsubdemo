@@ -6,7 +6,7 @@ spec:
   selector:
     app: open-jdk
   ports:
-    - port: 8080
+    - nodeport: 31484
       targetPort: 8080
       protocol: TCP
   type: NodePort
